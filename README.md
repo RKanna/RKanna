@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Kannan-Balakrishnan
 - 👀 I’m interested in Coding, Networking, Etc..
-- 🌱 I’m currently learning JS,python
+- 🌱 I'm currently involved in developing an embedded system application using C++.
 - 💞️ I’m looking to collaborate on Web apps, Desktop website projects
 - 📫 How to reach me vio Linkedin, Twitter, Facebook, Instagram
 
